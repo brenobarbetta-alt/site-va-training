@@ -114,7 +114,7 @@ svg { display: block; }
   background: var(--green) !important;
   color: #fff !important;
   font-weight: 700;
-  padding: 8px 18px;
+  padding: 6px 12px;
 }
 
 .nav-cta:hover { background: var(--green2) !important; }
@@ -155,7 +155,7 @@ svg { display: block; }
   align-items: center;
   justify-content: center;
   position: relative;
-  padding: calc(var(--hh) + 56px) 24px 80px;
+  padding: calc(var(--hh) + 56px) 24px 110px;
   text-align: center;
   overflow: hidden;
 }
@@ -236,9 +236,11 @@ svg { display: block; }
 
 .hero-scroll {
   position: absolute;
-  bottom: 28px;
-  left: 50%;
-  transform: translateX(-50%);
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  width: max-content;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -656,8 +658,8 @@ svg { display: block; }
 }
 
 .avatar {
-  width: 72px;
-  height: 72px;
+  width: 84px;
+  height: 84px;
   border-radius: 50%;
   background: var(--green-dim);
   border: 2px solid var(--green);
@@ -757,8 +759,8 @@ svg { display: block; }
 }
 
 .membro-av {
-  width: 56px;
-  height: 56px;
+  width: 68px;
+  height: 68px;
   border-radius: 50%;
   background: var(--green-dim);
   border: 1.5px solid var(--green);
@@ -1034,7 +1036,7 @@ svg { display: block; }
     border-bottom: 1px solid rgba(255,255,255,.06);
     flex-direction: column;
     padding: 20px;
-    gap: 2px;
+    gap: 6px;
     transform: translateY(-110%);
     opacity: 0;
     pointer-events: none;
@@ -1044,6 +1046,7 @@ svg { display: block; }
   .header.light .nav-menu { background: rgba(255,255,255,.98); border-color: var(--border); }
   .nav-toggle { display: flex; }
   .nav-link    { padding: 12px 16px; width: 100%; }
+  .nav-cta     { margin-top: 10px; }
 
   .sobre-grid,
   .fundadores,
@@ -1053,7 +1056,7 @@ svg { display: block; }
   .dif-grid    { grid-template-columns: 1fr; }
   .section     { padding: 72px 0; }
   .cta-final   { padding: 72px 0; }
-  .hero-logo   { width: 170px; }
+  .hero-logo   { width: 185px; }
 }
 
 @media (max-width: 640px) {

@@ -4,7 +4,7 @@
 
 **Última atualização:** Junho de 2026  
 **Repositório:** github.com/brenobarbetta-alt/site-va-training  
-**Status atual:** Site desenvolvido, publicação pendente
+**Status atual:** Site publicado em https://site-va-training.vercel.app
 
 ---
 
@@ -330,6 +330,22 @@ Substitua o arquivo em `assets/` mantendo o mesmo nome. Se o browser mostrar a v
 
 ### Alterar cores
 As cores estão centralizadas no topo de `css/styles.css` nas variáveis `:root { ... }`. Altere apenas ali — o resto do CSS usa as variáveis automaticamente.
+
+---
+
+## Parte 5 — Histórico de ajustes
+
+### Junho de 2026 — Ajustes visuais pós-publicação
+
+- **"Rolar para conhecer"** — corrigido bug de posicionamento: a animação `fadeUp` sobrescrevia o `transform: translateX(-50%)` após terminar, deslocando o elemento para a direita. Solução: centralização trocada para `left: 0; right: 0; margin: 0 auto` (sem dependência de transform).
+- **Hero** — padding-bottom aumentado de 80px para 110px, criando mais respiro entre os botões e o indicador de scroll.
+- **Indicador de scroll** — reposicionado de `bottom: 28px` para `bottom: 20px`, ficando mais próximo da borda inferior do hero.
+- **Menu mobile** — gap entre links aumentado de 2px para 6px; botão "Contato" ganhou `margin-top: 10px` extra para separar melhor de "Equipe".
+- **Logo no hero (mobile)** — largura aumentada de 170px para 185px.
+- **Botão "Contato" no header** — padding reduzido de `8px 18px` para `6px 12px`, proporcional ao texto.
+- **Avatares dos fundadores** — tamanho aumentado de 72px para 84px.
+- **Avatares dos professores** — tamanho aumentado de 56px para 68px.
+- **Site publicado** no Vercel: https://site-va-training.vercel.app
 
 ---
 
