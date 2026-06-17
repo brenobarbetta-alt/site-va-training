@@ -1,459 +1,336 @@
-# Prompt para Criação do Site Institucional da VA Training
+# VA Training Performance — Documento do Projeto
 
-Você é um **developer sênior**, **product designer** e **especialista em UX/UI** com mais de **30 anos de experiência** criando sites institucionais modernos, responsivos, elegantes, rápidos e orientados à conversão.
+> Este documento reúne o briefing original da empresa e o registro de tudo que foi desenvolvido, decidido e implementado no site até o momento. Serve como referência para edições futuras, onboarding de novos colaboradores e continuidade do projeto.
 
-Preciso que você desenvolva um site institucional para a empresa **VA Training**, um estúdio/academia especializado em exercício físico, saúde, prevenção, reabilitação, avaliação fisiológica e performance.
-
-O site será usado principalmente como página de apresentação da empresa. Ele ficará disponível em locais como Instagram, Facebook, WhatsApp e outros canais digitais, para que pessoas interessadas possam clicar, conhecer o trabalho e entrar em contato.
-
-O objetivo principal do site é transmitir **profissionalismo, autoridade científica, confiança, modernidade e acolhimento**, sem parecer exagerado, confuso ou visualmente poluído.
+**Última atualização:** Junho de 2026  
+**Repositório:** github.com/brenobarbetta-alt/site-va-training  
+**Status atual:** Site desenvolvido, publicação pendente
 
 ---
 
-## 1. Sobre a empresa
+## Parte 1 — Briefing da empresa
 
-Nome da empresa: **VA Training**
+### 1.1. Sobre a empresa
 
-A **VA Training** é um estúdio/academia voltado para treinamentos direcionados, específicos e individualizados, com foco em saúde, prevenção, reabilitação, qualidade de vida e performance.
+Nome: **VA Training Performance**
+
+A VA Training é um estúdio/academia voltado para treinamentos direcionados, específicos e individualizados, com foco em saúde, prevenção, reabilitação, qualidade de vida e performance.
 
 A empresa é especializada na aplicação de exercícios físicos para prevenção e tratamento de doenças crônicas, acompanhamento fisiológico de atletas e prescrição de treinamentos personalizados.
 
-Biografia atual do Instagram:
-
+**Biografia do Instagram:**
 > Especializado em exercícios físicos para tratamento de doenças e acompanhamento fisiológico de atletas.
 
-Outras descrições utilizadas pela empresa:
+**Outras descrições utilizadas:**
+- Um estúdio especializado na aplicação de exercícios físicos para prevenção e tratamento de doenças crônicas.
+- Avaliação física, com testes personalizados, para diferentes objetivos.
+- Programas de prevenção e tratamento de lesões.
+- Treinamento de força e mobilidade específicos para diferentes esportes.
+- Atendimento para crianças e adultos.
 
-> Um estúdio especializado na aplicação de exercícios físicos para prevenção e tratamento de doenças crônicas.
-
-> Avaliação física, com testes personalizados, para diferentes objetivos.
-
-> Programas de prevenção e tratamento de lesões.
-
-> Treinamento de força e mobilidade específicos para diferentes esportes.
-
-> Atendimento para crianças e adultos.
+**Objetivo do site:** Transmitir profissionalismo, autoridade científica, confiança, modernidade e acolhimento. Funciona como página de apresentação compartilhada via Instagram, Facebook e WhatsApp para converter visitas em contato direto.
 
 ---
 
-## 2. Público-alvo
-
-O site deve conversar com diferentes públicos:
-
-- Pessoas com doenças crônicas que precisam de exercício físico orientado;
-- Pessoas com diabetes, hipertensão, cardiopatologias ou outras condições clínicas;
-- Pessoas em processo de reabilitação pós-lesão;
-- Pessoas que buscam qualidade de vida, saúde e envelhecimento ativo;
-- Atletas amadores;
-- Atletas profissionais;
-- Corredores de rua;
-- Pessoas que buscam avaliação física, fisiológica e prescrição de treino baseada em dados;
-- Pessoas que querem acompanhamento individualizado, seguro e científico.
-
-A linguagem deve ser clara, humana, profissional e acessível. O site não deve parecer excessivamente técnico, mas precisa transmitir base científica e credibilidade.
-
----
-
-## 3. Localização
-
-Endereço do estúdio:
+### 1.2. Localização
 
 **Rua Manoel Andrade, 55 — Empresarial Manoel Gomes Mendonça, Sala 9C — Pituba, Salvador, Bahia, Brasil.**
 
-Incluir essa informação em uma seção de localização, preferencialmente no final do site, com possibilidade de botão para abrir no Google Maps.
+---
+
+### 1.3. Contatos
+
+| Pessoa | Telefone | WhatsApp |
+|--------|----------|----------|
+| Valter (fundador) | (71) 91577100 | https://wa.me/557191577100 |
+| Breno | (71) 992933460 | https://wa.me/5571992933460 |
+
+**E-mail:** professor@valterabrantes.com
+
+**Regras de contato:**
+- Não apresentar preços no site.
+- Não criar formulário de contato — o contato é sempre por botão direto.
+- CTAs utilizados: "Fale com a VA Training", "Agende uma conversa", "Solicitar avaliação", "Entrar em contato pelo WhatsApp".
 
 ---
 
-## 4. Serviços principais
+### 1.4. Público-alvo
 
-O site deve apresentar de forma organizada os principais serviços da VA Training.
+- Pessoas com doenças crônicas (diabetes, hipertensão, cardiopatologias);
+- Pessoas em reabilitação pós-lesão;
+- Pessoas que buscam qualidade de vida e envelhecimento ativo;
+- Atletas amadores e profissionais;
+- Corredores de rua;
+- Pessoas que buscam avaliação física e fisiológica baseada em dados;
+- Crianças e adultos com necessidade de acompanhamento individualizado.
 
-### 4.1. Treinamento para saúde e doenças crônicas
-
-A VA Training trabalha com exercícios físicos direcionados para:
-
-- Diabetes;
-- Hipertensão;
-- Cardiopatologias;
-- Reabilitação pós-lesão;
-- Prevenção de lesões;
-- Qualidade de vida e saúde;
-- Envelhecimento com qualidade;
-- Mobilidade;
-- Fortalecimento;
-- Condicionamento físico;
-- Crianças e adultos.
-
-### 4.2. Avaliação física e fisiológica
-
-A empresa também realiza avaliações físicas e fisiológicas para atletas amadores, atletas profissionais e pessoas em geral.
-
-Avaliações disponíveis:
-
-- Avaliação corporal;
-- Dobras cutâneas;
-- Bioimpedância;
-- Relatórios sobre composição corporal;
-- Relatórios com análise de possível risco de sarcopenia;
-- Avaliações de força;
-- Uso de dinamômetros para avaliação de força dos membros;
-- Relatórios com dados, insights e recomendações para melhor prescrição de exercícios;
-- Avaliações fisiológicas para acompanhamento de performance.
-
-### 4.3. Prescrição de treinamentos online
-
-A empresa também trabalha com prescrição de treinos online, incluindo:
-
-- Treinamentos preventivos para modalidades esportivas;
-- Musculação;
-- Corrida de rua;
-- Treinamento de força;
-- Mobilidade;
-- Exercícios específicos para diferentes esportes;
-- Acompanhamento individualizado.
+A linguagem deve ser clara, humana, profissional e acessível. Transmitir base científica sem parecer excessivamente técnica.
 
 ---
 
-## 5. Profissionais
+### 1.5. Serviços
 
-O site deve ter uma seção dedicada aos profissionais da VA Training.
+#### Treinamento para saúde e doenças crônicas
+Exercícios direcionados para diabetes, hipertensão, cardiopatologias, reabilitação pós-lesão, prevenção de lesões, mobilidade, fortalecimento, condicionamento e qualidade de vida.
 
-### 5.1. Fundador
+#### Avaliação física e fisiológica
+Avaliação corporal, dobras cutâneas, bioimpedância, relatórios de composição corporal, análise de risco de sarcopenia, avaliação de força com dinamômetros, relatórios com insights e recomendações, acompanhamento de performance.
 
-**Valter Abrantes Pereira da Silva**  
+#### Prescrição de treinamentos online
+Treinamentos preventivos para modalidades esportivas, musculação, corrida de rua, treinamento de força, mobilidade, exercícios específicos por esporte, acompanhamento individualizado.
+
+---
+
+### 1.6. Equipe
+
+#### Fundador — Valter Abrantes Pereira da Silva
 Instagram: **@vatrainingoficial**
 
-Descrição profissional:
+Mestre em Educação Física. Doutorado em andamento em Medicina e Saúde pela UFBA. Fisiologista e Coordenador Científico com atuação em Esporte Clube Vitória, Chapecoense e Kashima Antlers (Japão). CEO da VA Training Performance, referência em ciência da performance esportiva. Profissional de Educação Física com trajetória acadêmica e prática nas Ciências da Saúde, mais de 20 anos de experiência docente, atuação em avaliação, reabilitação, saúde e alto rendimento.
 
-Mestre em Educação Física. Doutorado em andamento em Medicina e Saúde pela UFBA. Fisiologista e Coordenador Científico, com atuação em clubes como Esporte Clube Vitória, Chapecoense e Kashima Antlers, do Japão. CEO da VA Training Performance, referência em ciência da performance esportiva.
-
-Profissional de Educação Física com sólida trajetória acadêmica e prática nas Ciências da Saúde, unindo experiência docente de mais de 20 anos ao trabalho de excelência em avaliação, reabilitação, saúde e alto rendimento.
-
-### 5.2. Breno Barbetta Pereira da Silva
-
+#### Co-fundador — Breno Barbetta Pereira da Silva
 Instagram: **@_brenobarbetta**
 
-Descrição profissional:
+Bacharel em Educação Física pela Faculdade de Ciências e Tecnologias de Salvador. Estagiário no setor de Fisiologia/Sport Science do Esporte Clube Bahia (2022–2024). Analista de Dados das Categorias de Base do Esporte Clube Bahia (2024–2025.1). Atualmente Assistente de Fisiologia do time profissional do Esporte Clube Bahia SAF.
 
-Bacharel em Educação Física pela Faculdade de Ciências e Tecnologias de Salvador. Atuou entre 2022 e 2024 como estagiário no setor de Fisiologia/Sport Science do Esporte Clube Bahia. Entre 2024 e 2025.1, atuou como Analista de Dados das Categorias de Base do Esporte Clube Bahia. Atualmente é Assistente de Fisiologia do time profissional do Esporte Clube Bahia SAF.
+#### Equipe de Professores
 
-### 5.3. Outros profissionais
-
-No momento, incluir os nomes da equipe em uma seção mais simples, com estrutura preparada para receber futuramente foto, currículo e descrição completa.
-
-Profissionais:
-
-- Felipe Santana — **@fesantanatrainer**
-- Deise Oliveira — **@prof.deisee_oliveir**
-- Rê Guimarães — **@personalreguimaraes**
-
-Importante: criar essa seção de modo escalável, para que no futuro seja fácil adicionar foto, formação, currículo, especialidades e links profissionais de cada um.
+| Nome | Instagram | CREF |
+|------|-----------|------|
+| Felipe Santana | @fesantanatrainer | A preencher |
+| Deise Oliveira | @prof.deisee_oliveir | A preencher |
+| Rê Guimarães | @personalreguimaraes | A preencher |
 
 ---
 
-## 6. Contato
+### 1.7. Estilo visual desejado
 
-Não apresentar valores no site.
-
-O objetivo é sempre direcionar a pessoa interessada para contato direto via WhatsApp, telefone ou e-mail.
-
-Contatos disponíveis:
-
-- Valter: **(71) 91577100**
-- Breno: **(71) 992933460**
-
-Criar botões de contato direto, especialmente para WhatsApp.
-
-Não criar formulário de contato neste momento. O contato deve ser direto por botão/link.
-
-Sugestões de CTAs:
-
-- Fale com a VA Training;
-- Agende uma conversa;
-- Quero saber mais;
-- Entrar em contato pelo WhatsApp;
-- Conheça nosso acompanhamento;
-- Solicitar avaliação.
-
-Caso algum número precise de validação para gerar link de WhatsApp, sinalizar isso antes da versão final.
-
----
-
-## 7. Estilo visual desejado
-
-Preferência visual:
-
-- Claro;
-- Clean;
-- Moderno;
-- Profissional;
-- Elegante;
-- Fluido;
-- Sem extravagâncias desnecessárias;
-- Sem poluição visual;
-- Sem excesso de animações chamativas.
-
-O site deve parecer moderno, mas não deve parecer artificial, exagerado ou tecnológico demais. A estética precisa combinar saúde, ciência, performance, acolhimento e confiança.
-
-Sugestão de direção visual:
-
-- Fundo claro, branco ou off-white;
-- Tons neutros;
-- Detalhes em azul, verde, preto, cinza ou outra cor que combine com a identidade visual da VA Training;
-- Cards com bordas suaves;
+- Claro, clean, moderno, profissional, elegante, fluido;
+- Sem poluição visual, sem animações exageradas;
+- Fundo claro (branco ou off-white) com hero escuro;
 - Tipografia moderna e legível;
-- Ícones discretos;
-- Boa hierarquia visual;
-- Bastante espaçamento;
+- Boa hierarquia visual com espaçamento generoso;
 - Layout responsivo e mobile-first.
 
-Caso não exista uma paleta oficial da marca, sugerir 2 ou 3 opções de paleta antes de finalizar o design.
-
----
-
-## 8. Comportamento e interações
-
-O site deve ser fluido, mas simples.
-
-Não quero um site estático demais. Quero pequenas interações que deixem a navegação mais agradável, sem comprometer velocidade ou clareza.
-
-Incluir, se fizer sentido:
-
-- Navbar fixa ou semi-fixa;
-- Menu com rolagem suave para as seções;
-- Animações leves ao rolar a página;
-- Cards que aparecem suavemente no scroll;
-- Botões com microinterações;
-- Seções com transições suaves;
-- Destaques visuais em números, serviços ou diferenciais;
-- Hero section com presença forte da marca;
-- Layout com boa experiência no celular;
-- CTA visível e recorrente para WhatsApp;
-- Possível botão flutuante de WhatsApp.
-
-As interações devem ser elegantes, leves e funcionais. Não usar efeitos exagerados, animações pesadas ou elementos que distraiam da mensagem principal.
-
----
-
-## 9. Estrutura sugerida do site
-
-Criar o site em formato **one-page**, com seções bem organizadas.
-
-### Seção 1 — Hero / Tela inicial
-
-A primeira tela deve apresentar:
-
-- Logomarca da VA Training;
-- Nome da empresa;
-- Frase principal forte;
-- Subtítulo explicativo;
-- Botão principal para contato;
-- Botão secundário para conhecer os serviços.
-
-Sugestão de headline:
-
-> Exercício físico, saúde e performance com acompanhamento científico.
-
-Sugestão de subtítulo:
-
-> A VA Training é um estúdio especializado em treinamento individualizado, avaliação física e fisiológica, prevenção de lesões, reabilitação e acompanhamento de atletas e pessoas que buscam mais saúde e qualidade de vida.
-
-CTAs:
-
-- Fale conosco;
-- Conheça os serviços.
-
-### Seção 2 — Sobre a VA Training
-
-Explicar brevemente o que é a empresa, sua proposta e diferenciais.
-
-Mensagem central:
-
-> A VA Training une ciência, experiência prática e atendimento individualizado para entregar programas de exercício físico voltados à saúde, prevenção, reabilitação e performance.
-
-### Seção 3 — Para quem é
-
-Criar uma seção mostrando os principais perfis atendidos:
-
-- Pessoas com doenças crônicas;
-- Pessoas em reabilitação;
-- Pessoas que buscam qualidade de vida;
-- Atletas amadores;
-- Atletas profissionais;
-- Corredores;
-- Crianças e adultos;
-- Pessoas que querem treinamento seguro e individualizado.
-
-### Seção 4 — Serviços
-
-Organizar os serviços em cards ou blocos:
-
-1. Treinamento para saúde e doenças crônicas;
-2. Reabilitação e prevenção de lesões;
-3. Avaliação corporal;
-4. Avaliação de força;
-5. Avaliação fisiológica;
-6. Treinamento online;
-7. Treinamento de força e mobilidade;
-8. Corrida de rua e modalidades esportivas.
-
-### Seção 5 — Diferenciais
-
-Destacar os diferenciais da VA Training:
-
-- Prescrição baseada em ciência;
-- Acompanhamento individualizado;
-- Experiência com saúde, reabilitação e alto rendimento;
-- Avaliações com dados objetivos;
-- Relatórios personalizados;
-- Profissionais qualificados;
-- Experiência prática com clubes e atletas;
-- Atendimento para diferentes objetivos e níveis.
-
-### Seção 6 — Fundador e equipe
-
-Apresentar Valter Abrantes Pereira da Silva com maior destaque.
-
-Apresentar Breno Barbetta Pereira da Silva em seguida.
-
-Depois, apresentar os demais profissionais em cards menores, deixando a estrutura preparada para expansão futura.
-
-### Seção 7 — Avaliações e relatórios
-
-Criar uma seção específica para explicar que a VA Training realiza avaliações e gera relatórios com informações úteis para prescrição e acompanhamento.
-
-Destacar:
-
-- Composição corporal;
-- Bioimpedância;
-- Dobras cutâneas;
-- Força;
-- Dinamometria;
-- Indicadores de sarcopenia;
-- Insights para treino, saúde e performance.
-
-### Seção 8 — Localização
-
-Exibir o endereço:
-
-**Rua Manoel Andrade, 55 — Empresarial Manoel Gomes Mendonça, Sala 9C — Pituba, Salvador, Bahia, Brasil.**
-
-Incluir botão para abrir localização no mapa.
-
-### Seção 9 — CTA final
-
-Criar uma chamada final objetiva:
-
-> Quer treinar com mais segurança, ciência e individualidade?
-
-Subtexto:
-
-> Entre em contato com a VA Training e conheça o acompanhamento mais adequado para o seu objetivo.
-
-Botões:
-
-- Falar com Valter;
-- Falar com Breno;
-- Chamar no WhatsApp.
-
-### Seção 10 — Rodapé
-
-Incluir:
-
-- Logomarca;
-- Nome VA Training;
-- Breve frase institucional;
-- Endereço;
-- Telefones;
-- Instagram;
-- Direitos reservados.
-
----
-
-## 10. Requisitos técnicos
-
-O site deve ser:
-
-- Responsivo;
-- Mobile-first;
-- Rápido;
-- Leve;
-- Otimizado para SEO básico;
-- Acessível;
-- Compatível com navegadores modernos;
-- Fácil de editar no futuro;
-- Preparado para receber fotos da equipe posteriormente;
-- Preparado para receber links de redes sociais;
-- Preparado para futura expansão, caso a empresa queira adicionar páginas internas.
-
-Se estiver criando código, utilizar estrutura limpa, sem dependências desnecessárias.
-
-Priorizar:
-
-- HTML semântico;
-- CSS organizado;
-- JavaScript leve;
-- Boa performance;
-- Componentização quando possível;
-- Nomes de classes claros;
-- Comentários apenas quando úteis.
-
----
-
-## 11. Restrições importantes
-
+**Restrições:**
 - Não apresentar preços;
 - Não criar formulário de contato;
 - Não usar linguagem apelativa;
 - Não exagerar em promessas de resultado;
-- Não usar visual poluído;
-- Não criar animações pesadas;
-- Não usar textos genéricos demais;
-- Não usar “Lorem ipsum”;
-- Não inventar formações, títulos, fotos, depoimentos ou informações que não foram fornecidas;
-- Não transformar o site em algo com estética fitness genérica.
-
-A marca deve transmitir ciência, saúde, cuidado, avaliação e performance.
+- Não inventar informações não fornecidas;
+- Não transformar o site em estética fitness genérica.
 
 ---
 
-## 12. Resultado esperado
+## Parte 2 — O que foi implementado
 
-Criar uma proposta completa de site institucional para a VA Training, incluindo:
+### 2.1. Stack técnica
 
-1. Arquitetura das seções;
-2. Textos iniciais do site;
-3. Sugestão visual;
-4. Layout moderno e responsivo;
-5. CTAs para WhatsApp;
-6. Animações leves e fluidas;
-7. Código limpo e pronto para evolução;
-8. Estrutura preparada para adicionar fotos, currículos e novos profissionais futuramente.
+O site é uma **aplicação estática one-page** sem frameworks ou dependências de build. Arquivos:
 
-Antes de finalizar, revise se o site comunica com clareza estes pilares:
+```
+index.html       — toda a estrutura HTML
+css/styles.css   — todos os estilos
+js/main.js       — todos os comportamentos
+assets/          — logos e imagens
+```
 
-- Saúde;
-- Ciência;
-- Exercício físico;
-- Prevenção;
-- Reabilitação;
-- Qualidade de vida;
-- Avaliação física e fisiológica;
-- Performance;
-- Acompanhamento individualizado;
-- Confiança profissional.
+**Fontes:** Google Fonts — Inter (corpo) + Oswald (títulos)  
+**Ícones:** SVG inline (sem biblioteca externa)  
+**Animações:** CSS transitions + Intersection Observer API  
+**Sem:** React, Vue, Bootstrap, jQuery, Tailwind.
 
 ---
 
-## 13. Instrução final para a IA desenvolvedora
+### 2.2. Decisões de design implementadas
 
-Antes de começar a codar, analise o briefing completo e proponha:
+#### Paleta de cores (CSS custom properties)
 
-1. Uma estrutura final de seções;
-2. Uma paleta visual recomendada;
-3. Uma sugestão de tipografia;
-4. Uma proposta de layout;
-5. Uma lista de componentes reutilizáveis;
-6. A melhor forma de implementar os botões de contato direto via WhatsApp.
+```css
+--bg: #ffffff          /* fundo geral */
+--bg2: #f4f6f3         /* fundo alternado (seções pares) */
+--bg-dark: #1a1d1e     /* hero e CTA final */
+--bg-dark2: #212629    /* gradiente do hero */
+--card: #ffffff        /* fundo dos cards */
+--border: #e2e6e0      /* bordas sutis */
+--text: #1a1d1e        /* texto principal */
+--muted: #687075       /* texto secundário */
+--green: #8dc63f       /* verde principal da marca */
+--green2: #a4d952      /* verde claro (hovers) */
+--green-dim: rgba(141,198,63,.10)  /* verde translúcido (fundos) */
+```
 
-Depois disso, desenvolva o site com qualidade de produção, pensando como um desenvolvedor sênior, prezando por clareza, performance, organização, responsividade, SEO básico e facilidade de manutenção.
+#### Tipografia
+
+```css
+--fhead: 'Oswald', 'Arial Black', sans-serif   /* títulos */
+--fbody: 'Inter', system-ui, sans-serif         /* corpo */
+```
+
+#### Estratégia de header/logo
+
+O header tem dois estados visuais:
+- **Estado escuro** (sobre o hero): fundo transparente, logo com texto branco (`logo-horizontal.png`)
+- **Estado claro** (ao rolar para baixo): fundo branco com sombra, logo com texto escuro (`logo-performance.jpg`)
+
+A transição é controlada por JavaScript via `classList.toggle('light', isLight)` e troca dinâmica do `img.src`.
+
+---
+
+### 2.3. Estrutura de seções implementada
+
+| ID | Título | Descrição |
+|----|--------|-----------|
+| `#inicio` | Hero | Logo escudo, headline, subtítulo, dois CTAs |
+| `#sobre` | Sobre a VA Training | Descrição da empresa e proposta |
+| `#para-quem` | Para quem é | Cards dos perfis atendidos |
+| `#servicos` | Serviços | 8 cards de serviços com ícones SVG |
+| `#diferenciais` | Diferenciais | Blocos com os diferenciais da empresa |
+| `#avaliacoes` | Avaliações e Relatórios | Seção específica de avaliação fisiológica |
+| `#equipe` | Equipe de Professores | Fundador em destaque, co-fundador, professores |
+| `#contato` | Fale com a VA Training | CTA final com dois botões WhatsApp + endereço |
+| — | Rodapé | Logo, dados de contato, direitos reservados |
+
+---
+
+### 2.4. Arquivos de logo e seu uso
+
+| Arquivo | Onde é usado | Contexto |
+|---------|-------------|----------|
+| `assets/logo-horizontal.png` | Header (estado escuro) + Footer | Logo com fundo escuro |
+| `assets/logo-performance.jpg` | Header (estado claro — após rolar) | Logo com fundo branco |
+| `assets/logo-shield.png` | Hero section | Escudo da marca |
+
+**Como substituir uma logo:** basta sobrescrever o arquivo com o mesmo nome. O browser fará cache — se a imagem não atualizar, adicione `?v=3` (incrementando) no final da referência no HTML.
+
+---
+
+### 2.5. Comportamentos JavaScript
+
+- **Logo swap:** troca automática ao rolar além do hero
+- **Navegação ativa:** link do menu recebe classe `.active` conforme a seção visível
+- **Menu mobile:** hamburger toggle com fechamento ao clicar em link
+- **Reveal ao scroll:** elementos com classe `.reveal` aparecem suavemente com Intersection Observer; irmãos ganham delay escalonado de 80ms cada
+- **WhatsApp flutuante:** botão no canto inferior direito expande dois contatos (Valter e Breno)
+
+---
+
+### 2.6. Estrutura de pastas
+
+```
+Site VA Training/
+├── index.html              ← página principal
+├── css/
+│   └── styles.css          ← todos os estilos
+├── js/
+│   └── main.js             ← todos os comportamentos
+├── assets/
+│   ├── logo-horizontal.png ← logo horizontal (fundo escuro, usado no header escuro e footer)
+│   ├── logo-performance.jpg← logo horizontal (fundo branco, usado no header claro)
+│   ├── logo-shield.png     ← escudo da marca (hero)
+│   └── fotos/              ← pasta para fotos dos professores e estúdio
+├── docs/
+│   └── briefing.md         ← este documento
+└── .claude/
+    └── launch.json         ← config do servidor de desenvolvimento local
+```
+
+#### Onde colocar fotos futuras
+- **Fotos dos professores:** `assets/fotos/nome-do-professor.jpg`
+- **Fotos do estúdio:** `assets/fotos/estudio-01.jpg`, etc.
+- Após adicionar, referenciar no `index.html` dentro do card do professor correspondente
+
+---
+
+### 2.7. Como rodar o site localmente
+
+O servidor de desenvolvimento usa Python (já instalado na máquina):
+
+```bash
+# No terminal, dentro da pasta do projeto:
+python -m http.server 3000
+```
+
+Depois abra: `http://localhost:3000`
+
+A configuração está salva em `.claude/launch.json` para uso via Claude Code.
+
+---
+
+### 2.8. GitHub e versionamento
+
+- **Conta GitHub:** brenobarbetta-alt
+- **Repositório:** site-va-training
+- **Branch principal:** master
+
+Cada conjunto de alterações deve ser salvo com um commit:
+
+```bash
+git add index.html css/styles.css
+git commit -m "feat: adiciona foto dos professores"
+git push origin master
+```
+
+O GitHub não publica o site automaticamente — isso é feito via Vercel (ver seção 3.2).
+
+---
+
+## Parte 3 — Próximos passos
+
+### 3.1. Itens pendentes
+
+- [ ] **CREF dos professores** — preencher no `index.html` nos campos `<span class="membro-cref">CREF: </span>` de Felipe Santana, Deise Oliveira e Rê Guimarães
+- [ ] **Foto de Valter** — adicionar em `assets/fotos/valter.jpg` e referenciar no card do fundador
+- [ ] **Foto de Breno** — adicionar em `assets/fotos/breno.jpg` e referenciar no card
+- [ ] **Fotos dos professores** — idem para Felipe, Deise e Rê
+- [ ] **Fotos do estúdio** — para usar em seções futuras ou como background
+- [ ] **Logos sem fundo** — remover o fundo das logos usando Canva, Remove.bg ou Photoshop para obter versões PNG transparentes; substituir os arquivos na pasta `assets/`
+
+### 3.2. Como publicar o site (Vercel)
+
+1. Acesse vercel.com e crie uma conta gratuita (pode entrar com o GitHub)
+2. Clique em **"Add New Project"**
+3. Conecte o repositório `site-va-training` do GitHub
+4. Deixe todas as configurações padrão — o Vercel detecta automaticamente que é um site estático
+5. Clique em **Deploy**
+6. O site ficará disponível em um endereço como `site-va-training.vercel.app`
+
+A cada novo `git push origin master`, o Vercel republica o site automaticamente.
+
+### 3.3. Como adicionar um domínio personalizado
+
+Se você já tem um domínio (ex: vatraining.com.br):
+1. No painel do Vercel, vá em **Settings → Domains**
+2. Adicione o domínio e siga as instruções para apontar os DNS
+
+Se não tem domínio ainda:
+- **registro.br** — para domínios `.com.br` (aprox. R$ 40/ano)
+- **Namecheap** ou **GoDaddy** — para domínios `.com` (aprox. US$ 12/ano)
+
+Após registrar, aponte o DNS para o Vercel conforme as instruções do painel.
+
+---
+
+## Parte 4 — Como fazer edições comuns
+
+### Alterar um texto
+Abra `index.html` e localize o trecho pelo conteúdo. Edite diretamente o texto entre as tags HTML.
+
+### Adicionar foto de um professor
+1. Coloque a foto em `assets/fotos/nome.jpg`
+2. No `index.html`, localize o card do professor (procure pelo nome)
+3. Substitua o elemento de iniciais (`.membro-avatar`) por uma tag `<img src="assets/fotos/nome.jpg" alt="Nome">`
+
+### Adicionar um novo professor
+1. Copie um bloco `<div class="membro-card">` existente no `index.html`
+2. Troque nome, Instagram, CREF e foto
+
+### Alterar as logos
+Substitua o arquivo em `assets/` mantendo o mesmo nome. Se o browser mostrar a versão antiga, adicione `?v=X` (incrementando o número) ao final do `src` da imagem no HTML.
+
+### Alterar cores
+As cores estão centralizadas no topo de `css/styles.css` nas variáveis `:root { ... }`. Altere apenas ali — o resto do CSS usa as variáveis automaticamente.
+
+---
+
+*Documento mantido por Breno Barbetta — brenobarbetta@gmail.com*

@@ -3,7 +3,7 @@ const header  = document.getElementById('header');
 const logoImg = document.getElementById('nav-logo-img');
 const heroEl  = document.getElementById('inicio');
 
-const LOGO_DARK  = 'assets/logo-horizontal.jpg';
+const LOGO_DARK  = 'assets/logo-horizontal.png';
 const LOGO_LIGHT = 'assets/logo-performance.jpg';
 
 function updateHeader() {
